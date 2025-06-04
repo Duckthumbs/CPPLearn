@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Git\\CPPLearn\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49E1ABEB-91DE-4F03-8541-95EA075A1717}|HelloWorld.vcxproj|C:\\Git\\CPPLearn\\HelloWorld\\PrintStandard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49E1ABEB-91DE-4F03-8541-95EA075A1717}|HelloWorld.vcxproj|solutionrelative:PrintStandard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F2E82427-9546-4788-9490-CC2EDB28C0D4}|..\\1_11\\1_11.vcxproj|C:\\Git\\CPPLearn\\1_11\\1_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PrintStandard.cpp",
-              "DocumentMoniker": "C:\\Git\\CPPLearn\\HelloWorld\\PrintStandard.cpp",
-              "RelativeDocumentMoniker": "PrintStandard.cpp",
-              "ToolTip": "C:\\Git\\CPPLearn\\HelloWorld\\PrintStandard.cpp",
-              "RelativeToolTip": "PrintStandard.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswBgAAAABAAAAAAAAAA==",
+              "Title": "1_11.cpp",
+              "DocumentMoniker": "C:\\Git\\CPPLearn\\1_11\\1_11.cpp",
+              "RelativeDocumentMoniker": "..\\1_11\\1_11.cpp",
+              "ToolTip": "C:\\Git\\CPPLearn\\1_11\\1_11.cpp*",
+              "RelativeToolTip": "..\\1_11\\1_11.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-27T15:03:41.329Z",
+              "WhenOpened": "2025-06-04T13:37:04.936Z",
               "EditorCaption": ""
             }
           ]
